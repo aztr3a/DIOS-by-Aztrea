@@ -1,6 +1,6 @@
 # DIOS-by-Aztrea
 
-![Screenshot](./example.png)
+![Screenshot](./screenshot.png)
 
 ### DIOS
 ```
